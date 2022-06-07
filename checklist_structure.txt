@@ -1,0 +1,12 @@
+Checklist structure:
+1. Areas/Moduls/Objects...
+2. Test subject
+3. Result (passed, failed, blocked, skipped, not run)
+Fields:
+- date;
+- build;
+- tester;
+- config/environment;
+- test type;
+- result;
+- subject list...
